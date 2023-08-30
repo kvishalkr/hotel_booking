@@ -71,6 +71,10 @@ password: 123456
 
 <img src="/sample.mp4?raw=true">
 
+
+https://github.com/kvishalkr/hotel_booking/assets/101409155/81c827b9-f4e3-45e6-884e-a1aaf67de83e
+
+
 #### Profile
 
 <img src="/SampleCancel.gif?raw=true">
