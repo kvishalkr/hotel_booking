@@ -75,7 +75,7 @@ https://github.com/kvishalkr/hotel_booking/assets/101409155/81c827b9-f4e3-45e6-8
 
 #### Profile
 
-<img src="/SampleCancel.gif?raw=true">
+<img src="/cancel.gif?raw=true">
 
 
 #### Admin Page
