@@ -69,7 +69,7 @@ username: user@gmail.com
 
 password: 123456
 
-<img src="/sample.gif?raw=true">
+<img src="/sample.mp4?raw=true">
 
 #### Profile
 
