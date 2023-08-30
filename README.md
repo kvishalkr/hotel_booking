@@ -69,7 +69,6 @@ username: user@gmail.com
 
 password: 123456
 
-<img src ="sample.gif?raw=true">
 https://github.com/kvishalkr/hotel_booking/assets/101409155/81c827b9-f4e3-45e6-884e-a1aaf67de83e
 
 
