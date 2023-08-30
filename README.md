@@ -26,13 +26,11 @@ node server.js
 
 ##### npm package use:
 
-- nodemon
 - mongoose
 - express
 - router
 - moment
 - stripe
-- uuid
 
 
 
@@ -52,10 +50,6 @@ npm start
 
 ##### npm package use:
 
-- antd
-- aos
-- axios
-- moment
 - react-bootstrap
 - react-router-dom
 - react-stripe-checkout
