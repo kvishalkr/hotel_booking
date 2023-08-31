@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://hotel-booking-plgz.onrender.com/"
+  "proxy": "http://localhost:5000/"
 }
